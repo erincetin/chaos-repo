@@ -45,7 +45,7 @@ Above some parameter values, these maps give rise to crazy chaotic behaviour.
 
 ## Bifurcation Diagrams for Logistic and Sinus Maps
 
-Interestingly, both maps give rise to very similar bifurcation diagrams. In fact, they are exactly the same bifurcation diagrams. Thus, the process is independent of the function chosen. Feigenbaum proved this in his 1978 [paper](https://link.springer.com/article/10.1007/BF01020332). It is an interesting and a challenging read.
+Interestingly, both maps give rise to very similar bifurcation diagrams. In fact, they are exactly the same bifurcation diagrams. Thus, the process is independent of the function chosen. Feigenbaum proved this in his 1978 [paper](https://link.springer.com/article/10.1007/BF01020332). It is an interesting and challenging read.
 
 <img src="pictures/logistic-map-bifurcation.png" alt="Logarithmic Map Converging"/></td>
 
