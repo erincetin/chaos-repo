@@ -68,10 +68,14 @@ Horseshoe map is another chaotic map. It is like squashing a dough in two, and r
 <div style="display: flex; justify-content: space-between;">
     <div>
         <img src="pictures/hrs-init.png" alt="Image 1" width="300"/>
-        <img src="pictures/hrs-6.png" alt="Image 2" width="300"/>
+        <img src="pictures/hrs-3.png" alt="Image 2" width="300"/>
     </div>
     <div>
-        <img src="pictures/hrs-3.png" alt="Image 3" width="300"/>
-        <img src="pictures/hrs-10.png" alt="Image 3" width="300"/>
+        <img src="pictures/hrs-6.png" alt="Image 3" width="300"/>
+        <img src="pictures/hrs-10.png" alt="Image 4" width="300"/>
     </div>
 </div>
+
+The graph below shows how each value evolves in the Horseshoe graph. As the numbers I used are finite, the process repeats itself. It is simply stunning.
+
+<img src="pictures/hrs-evolution.png" alt="Image 3"/>
