@@ -63,7 +63,7 @@ The double pendulum gives rise to chaotic behavior. Below is the trace of the se
 
 ## Horseshoe Map
 
-Horseshoe map is another chaotic map. It is like squashing a dough in two, and repeating the process.
+Horseshoe map is another chaotic map. It is like squashing a dough in two, and repeating the process. I took 1000 points between 
 
 <div style="display: flex; justify-content: space-between;">
     <div>
