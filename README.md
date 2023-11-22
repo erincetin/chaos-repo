@@ -79,3 +79,9 @@ Horseshoe map is another chaotic map. It is like squashing a dough in two, and r
 The graph below shows how each value evolves in the Horseshoe graph. As the numbers I used are finite, the process repeats itself. It is simply stunning.
 
 <img src="pictures/hrs-evolution.png" alt="Image 3"/>
+
+## Barnsleys Fern
+
+Using a simple iterative process, we can get a fern-like structure. Changing the parameters generate structures similar to different fern species.
+
+<img src="pictures/fern.png" alt="Image 3"/>
